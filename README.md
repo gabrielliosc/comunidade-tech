@@ -4,7 +4,7 @@
 <div align="center">
 <h3 align="center">Site de uma comunidade de tecnologia para mulheres </h3>
   <p align="center">
-    Projeto front-end desenvolvido para o trabalho de MVP da segunda sprint no curso de pós-graduação em engenharia de software da PUC-Rio
+    Projeto front-end desenvolvido para o trabalho de MVP da terceira sprint no curso de pós-graduação em engenharia de software da PUC-Rio
   </p>
   <p>
     <i>Projeto em desenvolvimento</i>
